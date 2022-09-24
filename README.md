@@ -1,1 +1,1 @@
-# ReduxUsingCompanyDetails
+# ReduxCompanyDetailsProject
