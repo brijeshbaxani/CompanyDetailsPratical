@@ -1,1 +1,1 @@
-# ReduxCompanyDetailsProject
+# ReduxCompanyDetails
